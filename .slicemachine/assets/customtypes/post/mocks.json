@@ -1,0 +1,29 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "post",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Slept",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Esse fugiat fugiat laboris velit adipisicing non veniam exercitation non. Et et elit laborum velit velit ex ea qui sit do do sunt occaecat laboris non. Mollit eu tempor ea duis labore reprehenderit culpa aliquip elit minim enim laborum.",
+        "spans": []
+      }
+    ]
+  }
+}
